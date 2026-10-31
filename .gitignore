@@ -1,0 +1,27 @@
+# Private observations and locally generated dependencies/artifacts.
+/.local/
+/.conda/
+/.venv/
+/build/
+/dist/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.efi
+*.rom
+*.bin
+*.exe
+*.dll
+*.obj
+*.o
+*.pdb
+*.etl
+*.dmp
+*.zip
+*.7z
+.env
+.env.*
+# Ignore rules are not an access control or a publication review.
+
+# Locally reviewed firmware identities are private inputs.
+private_board_pins.h

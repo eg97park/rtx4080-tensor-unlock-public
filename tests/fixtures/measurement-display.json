@@ -1,0 +1,119 @@
+{
+  "QueryFlags": 82,
+  "Paths": [
+    {
+      "SourceName": {
+        "Status": 0,
+        "Name": "\\\\.\\DISPLAY1",
+        "MonitorPath": null
+      },
+      "SourceAdapterName": {
+        "Status": 0,
+        "Name": "\\\\?\\PCI#VEN_8086&DEV_7D67&SYNTHETIC",
+        "MonitorPath": null
+      },
+      "TargetAdapterName": {
+        "Status": 0,
+        "Name": "\\\\?\\PCI#VEN_8086&DEV_7D67&SYNTHETIC",
+        "MonitorPath": null
+      },
+      "TargetName": {
+        "Status": 0,
+        "Name": "Odyssey G70D",
+        "MonitorPath": "\\\\?\\DISPLAY#SAME069#SYNTHETIC"
+      },
+      "SourceModeIndex": 1,
+      "TargetModeIndex": 0,
+      "Native": {
+        "Source": {
+          "Adapter": {
+            "Low": 123,
+            "High": 0
+          },
+          "Id": 0,
+          "ModeIndex": 131071,
+          "Status": 1
+        },
+        "Target": {
+          "Adapter": {
+            "Low": 123,
+            "High": 0
+          },
+          "Id": 1,
+          "ModeIndex": 2,
+          "Technology": 5,
+          "Rotation": 1,
+          "Scaling": 1,
+          "Refresh": {
+            "Numerator": 133275000,
+            "Denominator": 925600
+          },
+          "Scanline": 1,
+          "Available": 1,
+          "Status": 1
+        },
+        "Flags": 9
+      }
+    }
+  ],
+  "Modes": [
+    {
+      "Type": 2,
+      "Id": 1,
+      "Adapter": {
+        "Low": 123,
+        "High": 0
+      },
+      "Raw0": 1332750000,
+      "Raw1": 1718120193400,
+      "Raw2": 3975421862452600,
+      "Raw3": 9277129363200,
+      "Raw4": 9938554326944,
+      "Raw5": 4294967299,
+      "SourceWidth": 0,
+      "SourceHeight": 0,
+      "SourceFormat": 0,
+      "SourceX": 0,
+      "SourceY": 0
+    },
+    {
+      "Type": 1,
+      "Id": 0,
+      "Adapter": {
+        "Low": 123,
+        "High": 0
+      },
+      "Raw0": 9277129363200,
+      "Raw1": 4,
+      "Raw2": 0,
+      "Raw3": 0,
+      "Raw4": 0,
+      "Raw5": 0,
+      "SourceWidth": 3840,
+      "SourceHeight": 2160,
+      "SourceFormat": 4,
+      "SourceX": 0,
+      "SourceY": 0
+    },
+    {
+      "Type": 3,
+      "Id": 1,
+      "Adapter": {
+        "Low": 123,
+        "High": 0
+      },
+      "Raw0": 9277129363200,
+      "Raw1": 0,
+      "Raw2": 9277129363200,
+      "Raw3": 0,
+      "Raw4": 9277129363200,
+      "Raw5": 0,
+      "SourceWidth": 0,
+      "SourceHeight": 0,
+      "SourceFormat": 0,
+      "SourceX": 0,
+      "SourceY": 0
+    }
+  ],
+  "Note": "Synthetic fixture, never a hardware observation."
+}

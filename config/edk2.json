@@ -1,0 +1,6 @@
+{
+  "repository": "tianocore/edk2",
+  "revision": "c1415771ac592ad8509351c46cd3cda4f38d7d52",
+  "archive_sha256": "666f953e84e09ad469c5558da37e35ed8b08c3e6345f7e3caa6ab1fc32654d95",
+  "include_tree_sha256": "6a7cb93672b745bdbeb753e647bf46b2b33b184f0fbd4ab4840378de48d1a757"
+}

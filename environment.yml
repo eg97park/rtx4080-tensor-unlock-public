@@ -1,0 +1,9 @@
+name: rtx4080-host-dev
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.13.9
+  - clang=20.1.8
+  - lld=20.1.8
+  - zstd=1.5
